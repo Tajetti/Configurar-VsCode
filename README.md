@@ -1,4 +1,5 @@
 # Configuração-vscode
+Theme: Carbon Theme - Oscar Newman
 `{
     "workbench.colorTheme": "Carbon",
     "workbench.sideBar.location": "right",
